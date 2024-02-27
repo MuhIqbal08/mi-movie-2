@@ -1,6 +1,5 @@
 import './App.css';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'
-import DashboardPages from './Pages/DashboardPages';
 import HomeNav from './Pages/HomeNav';
 import TopRatedNav from './Pages/TopRatedNav';
 import DetailMovieNav from './Pages/DetailMovieNav';
